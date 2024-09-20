@@ -23,8 +23,18 @@ This guide explains how to add your token to the `Tokens-list.json` file by fork
   "decimals": YOUR_DECIMALS
 }
 
-
+```
+```bash
 git add Tokens-list.json
 git commit -m "Add YOUR_TOKEN_NAME token"
 
 git push origin main
+```
+### Create a Pull Request
+```bash
+Go back to the original repository and create a pull request from your fork.
+Important Notes
+Ensure that the token details are accurate.
+Follow the existing format in Tokens-list.json for consistency.
+Thank you for contributing!
+```
