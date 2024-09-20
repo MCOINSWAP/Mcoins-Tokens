@@ -11,7 +11,7 @@ This guide explains how to add your token to the `Tokens-list.json` file by fork
 
 2. **Clone the Forked Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Mcoins-Tokens.git
+   git clone https://github.com/MCOINSWAP/Mcoins-Tokens.git
 
 ```bash
 {
