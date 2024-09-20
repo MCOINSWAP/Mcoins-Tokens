@@ -133,7 +133,7 @@
     address: "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     logoURI: "https://tokens.pancakeswap.finance/images/symbol/wbtc.png",
     decimals: 18,
-  },
+   },
    {
     chainId: bsc.id,
     symbol: "TWT",
@@ -141,7 +141,7 @@
     address: "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x4b0f1812e5df2a09796481ff14017e6005508003.png&w=32&q=75",
     decimals: 18,
-	},
+    },
     {
     chainId: bsc.id,
     symbol: "TOKEN",
@@ -149,15 +149,15 @@
     address: "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x4507cef57c46789ef8d1a19ea45f4216bae2b528.png&w=32&q=75",
     decimals: 18,
-	}, 
-	{
+    }, 
+    {
     chainId: bsc.id,
     symbol: "CAT",
     name: "Simons Cat",
     address: "0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x6894cde390a3f51155ea41ed24a33a4827d3063d.png&w=32&q=75",
     decimals: 18,
-	},
+    },
     {
     chainId: bsc.id,
     symbol: "DOGE",
@@ -165,7 +165,7 @@
     address: "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0xba2ae424d960c26247dd6c32edc70b295c744c43.png&w=32&q=75",
     decimals: 18,
-	},
+    },
     {
     chainId: bsc.id,
     symbol: "APX",
@@ -173,7 +173,7 @@
     address: "0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x78f5d389f5cdccfc41594abab4b0ed02f31398b3.png&w=32&q=75",
     decimals: 18,
-	},
+    },
     {
     chainId: bsc.id,
     symbol: "ADA",
@@ -181,7 +181,7 @@
     address: "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png&w=32&q=75",
     decimals: 18,
-	},
+    },
     {
     chainId: bsc.id,
     symbol: "MGP",
@@ -189,7 +189,7 @@
     address: "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0xd06716e1ff2e492cc5034c2e81805562dd3b45fa.png&w=32&q=75",
     decimals: 18,
-	},
+   },
     {
     chainId: bsc.id,
     symbol: "CGPT",
@@ -198,7 +198,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x9840652dc04fb9db2c43853633f0f62be6f00f98.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "LDO",
     name: "DAO Token",
@@ -206,7 +206,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_1_0x5a98fcbea516cf06857215779fd812ca3bef1b32.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "WHY",
     name: "why",
@@ -214,7 +214,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x9ec02756a559700d8d9e79ece56809f7bcc5dc27.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "QUACK",
     name: "RichQUACK.com",
@@ -222,7 +222,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0xd74b782e05aa25c50e7330af541d46e18f36661c.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "PMT",
     name: "Public Meme Token",
@@ -230,7 +230,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x68ae2f202799be2008c89e2100257e66f77da1f3.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "Minu",
     name: "Minu",
@@ -238,7 +238,7 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprod-coinbrain-directus%2Fimages-gcs%2F0d88e901-25b6-4211-a0fc-64f011311ec6.jpg&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "KABOSU",
     name: "Kabosu",
@@ -254,12 +254,20 @@
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x49324d59327fb799813b902db55b2a118d601547.png&w=32&q=75",
     decimals: 18,
   },
-      {
+  {
     chainId: bsc.id,
     symbol: "BabyElon",
     name: "Baby Elon",
     address: "0x258903A8e68d5248dE85CF8a0a173d9e046EdD98",
     logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x258903a8e68d5248de85cf8a0a173d9e046edd98.png&w=32&q=75",
+    decimals: 18,
+  },
+  {
+    chainId: bsc.id,
+    symbol: "DOT",
+    name: "Polkadot Token",
+    address: "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    logoURI: "https://coinbrain.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcoinbrain-prod-coins-icons%2Fvalid%2FCMC_56_0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png&w=32&q=75",
     decimals: 18,
   },
 ]
